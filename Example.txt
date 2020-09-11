@@ -1,1 +1,2 @@
 Hey this is a text file.
+Hey this is a bad text file.
